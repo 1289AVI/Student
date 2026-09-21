@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "id": "gen-1789974563366-0-wmsn",
+      "question": "An algorithm is a set of step-by-step ____.",
+      "options": [
+        "Skills",
+        "Formulae",
+        "Instructions",
+        "All of these"
+      ],
+      "correctAnswer": "Instructions",
+      "correctOptionIndex": 2,
+      "answerKeyExplanation": "According to the 'RECAP' section and the 'KEY TERMS' section provided on the page, an algorithm is defined as a step-by-step procedure or a detailed series of instructions to be executed in a certain order to solve a problem or perform an operation.",
+      "topic": "Algorithms",
+      "difficulty": "easy",
+      "sourceDoc": "WhatsApp Image 2026-09-18 at 12.42.47 PM.jpeg",
+      "createdAt": "2026-09-21T07:09:23.366Z",
+      "targetClass": "Class VI"
+    }
+  ],
+  "setters": [
+    {
+      "id": "setter-1",
+      "username": "setter1",
+      "name": "Prof. A. Banerjee",
+      "passcode": "setter123",
+      "status": "active",
+      "createdAt": "2026-09-21T06:00:00.000Z",
+      "assignedSubject": "General Science",
+      "updatedAt": "2026-09-21T07:16:23.552Z"
+    },
+    {
+      "id": "setter-2",
+      "username": "setter2",
+      "name": "Dr. K. Sharma",
+      "passcode": "setter123",
+      "status": "active",
+      "createdAt": "2026-09-21T06:00:00.000Z"
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "passcode": "12345",
+    "name": "Master Administrator"
+  },
+  "attempts": [
+    {
+      "id": "attempt-1789974603504",
+      "studentName": "Rahul Sharma",
+      "studentId": "ROLL-11-np7d",
+      "startTime": "2026-09-21T07:09:58.472Z",
+      "endTime": "2026-09-21T07:10:03.504Z",
+      "totalQuestions": 1,
+      "timeAllocatedSeconds": 600,
+      "timeSpentSeconds": 5,
+      "answers": {
+        "gen-1789974563366-0-wmsn": "Formulae"
+      },
+      "markedForReview": [],
+      "score": 0,
+      "percentage": 0,
+      "correctCount": 0,
+      "incorrectCount": 1,
+      "unansweredCount": 0,
+      "questionSnapshots": [
+        {
+          "id": "gen-1789974563366-0-wmsn",
+          "question": "An algorithm is a set of step-by-step ____.",
+          "options": [
+            "Skills",
+            "Formulae",
+            "Instructions",
+            "All of these"
+          ],
+          "correctAnswer": "Instructions",
+          "correctOptionIndex": 2,
+          "answerKeyExplanation": "According to the 'RECAP' section and the 'KEY TERMS' section provided on the page, an algorithm is defined as a step-by-step procedure or a detailed series of instructions to be executed in a certain order to solve a problem or perform an operation.",
+          "topic": "Algorithms",
+          "difficulty": "easy",
+          "sourceDoc": "WhatsApp Image 2026-09-18 at 12.42.47 PM.jpeg",
+          "createdAt": "2026-09-21T07:09:23.366Z",
+          "targetClass": "Class VI"
+        }
+      ]
+    }
+  ]
+}

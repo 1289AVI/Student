@@ -1,0 +1,6 @@
+{
+  "name": "Exam Portal - Dual Exam & Question Management System",
+  "description": "Multi-candidate examination platform with concurrent student exam portals, dedicated Question Setter suite, and Master Admin supervisor to manage setter credentials, reset passwords, and oversee live submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
